@@ -26,7 +26,7 @@ I would like to thank [Control Plane](https://control-plane.io/), especially [An
 
 ## Getting Help
 
-If you have any questions about kubernetes-for-soc:
+If you have any questions about **kubernetes-for-soc**:
 
 - Read the documentation.
 - Reach out to [@abdullahgarcia](https://twitter.com/abdullahgarcia) or [@controlplaneio](https://twitter.com/controlplaneio).
