@@ -6,7 +6,7 @@ Among these technologies, Kubernetes stands out as a pivotal and complex compone
 
 This intricate balancing act between staying current with evolving technologies and maintaining robust security measures within a constrained timeframe underscores the pivotal role of SOC analysts in today's dynamic and high-stakes cybersecurity landscape.
 
-To alleviate this burden, the **"kubernetes-for-soc"** aims to fast-track the learning curve for SOC analysts by enabling them to swiftly grasp the essential concepts and knowledge necessary to perform their critical duties.
+To alleviate this burden, **kubernetes-for-soc** aims to fast-track the learning curve for SOC analysts by enabling them to swiftly grasp the essential concepts and knowledge necessary to perform their critical duties.
 
 ## This Is **Not**
 
