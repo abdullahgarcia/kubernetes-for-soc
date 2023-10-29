@@ -45,7 +45,7 @@ It is important to shift your mindset: things can go wrong internally, not only 
 
 ## About attack vectors and attack paths
 
-An attack vector is the method that a bad actor uses to carry out a cyberattack or any kind of malicious activity. Make sure to pay attention to each attack path and the trust zones it traverses.
+An attack vector is the method that a malicious actor uses to carry out a cyberattack or any kind of malicious activity. Make sure to pay attention to each attack path and the trust zones it traverses.
 
 ## About controls
 
