@@ -20,6 +20,15 @@ To alleviate this burden, **kubernetes-for-soc** aims to fast-track the learning
 
 ## Usage
 
+There are two main parts within **kubernetes-for-soc**:
+
+- threat model
+- SOC observability
+
+In order to make the most out of the content, it would be preferable if you begin with the threat model and then SOC observability.
+
+However, you are free to explore the content however you want. The point is that you are able to learn!
+
 ## Acknowledgements
 
 I would like to thank [Control Plane](https://control-plane.io/), especially [Andrew Martin](https://twitter.com/sublimino) and [Francesco Beltramini](https://twitter.com/d1gital_f), for their time and expertise in this collaboration.
