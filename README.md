@@ -20,7 +20,7 @@ To alleviate this burden, **kubernetes-for-soc** aims to fast-track the learning
 
 ## Usage
 
-There are two main parts within **kubernetes-for-soc**:
+For now, there are two main parts within **kubernetes-for-soc**:
 
 - threat model
 - SOC observability
@@ -28,6 +28,10 @@ There are two main parts within **kubernetes-for-soc**:
 In order to make the most out of the content, it would be preferable if you begin with the threat model and then SOC observability.
 
 However, you are free to explore the content however you want. The point is that you are able to learn!
+
+## Coming Soon
+
+- Checklist of MUST-DO to have a Kubernetes cluster in a defensible position, maximising visibility and enabling efficient security monitoring.
 
 ## Acknowledgements
 
