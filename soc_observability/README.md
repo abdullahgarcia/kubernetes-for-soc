@@ -30,7 +30,7 @@ Unfortunately, this approach most of the time has an overall adverse effect on t
 
 ## Logging Sources & Operational Requirements
 
-**3. Comprehend the required sources of logging for the SOC and ascertain the means by which the satisfaction of operational pre-requisites can be guaranteed.**
+**3. Comprehend the required sources of logging for the SOC and ascertain the means by which the satisfaction of operational prerequisites can be guaranteed.**
 
 This goes hand in hand with the previous premises.
 
@@ -44,6 +44,5 @@ In the case of Kubernetes, log sources can include:
 - network logs
 - third-party plugins/components logs
 
-Understanding which ones will be needed and the level of details for each is as important as understanding where will they be saved, how the SOC will confirm the logs are actually flowing correctly into the SIEM, etc.
-
+Understanding which logs will be needed and the level of details for each is as important as understanding where will they be saved, how the SOC will confirm the logs are actually flowing correctly into the SIEM, etc.
 
