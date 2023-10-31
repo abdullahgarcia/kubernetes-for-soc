@@ -1,6 +1,6 @@
 # kubernetes-for-soc
 
-In today's rapidly evolving technological landscape, security operations center (SOC) analysts find themselves confronted with an increasingly daunting challenge. With a multitude of emerging technologies and constant transformations in existing ones, these professionals must grapple with the formidable task of comprehending each technology adopted by the organizations they safeguard. 
+In today's rapidly evolving technological landscape, Security Operations Center (SOC) analysts find themselves confronted with an increasingly daunting challenge. With a multitude of emerging technologies and constant transformations in existing ones, these professionals must grapple with the formidable task of comprehending each technology adopted by the organizations they safeguard. 
 
 Among these technologies, Kubernetes stands out as a pivotal and complex component. However, the accelerated pace of technological advancements leaves SOC analysts with limited time to acquire the in-depth knowledge and expertise required to effectively secure and/or monitor Kubernetes implementations.
 
