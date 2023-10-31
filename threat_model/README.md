@@ -19,34 +19,31 @@
 
 ## About trust zones / trust boundaries
 
-These exist almost anywhere you can argue for different privileges.
+- These exist almost anywhere you can argue for different privileges.
 
 ## About connections
 
-Make sure to note the protocol, the version, and the port, where applicable.
+- Make sure to note the protocol, the version, and the port, where applicable.
 
 ## About threats
 
-What can go wrong?
-
-Think about a person, people, event(s), weakness(es), behavior, and idea(s).
+- What can go wrong? Think about a person, people, event(s), weakness(es), behavior, and idea(s).
 
 ## About threat objects
 
-A threat object is the combination of:
-
-- things you want to protect
-- something a malicious entity wants to access, control, or destroy
-- stepping stones to either of these
+- A threat object is the combination of:
+  - things you want to protect
+  - something a malicious entity wants to access, control, or destroy
+  - stepping stones to either of these
 
 ## About threat actors
 
-It is important to shift your mindset: things can go wrong internally, not only externally.
+- It is important to shift your mindset: things can go wrong internally, not only externally.
 
 ## About attack vectors and attack paths
 
-An attack vector is the method that a malicious actor uses to carry out a cyberattack or any kind of malicious activity. Make sure to pay attention to each attack path and the trust zones it traverses.
+- An attack vector is the method that a malicious actor uses to carry out a cyberattack or any kind of malicious activity. Make sure to pay attention to each attack path and the trust zones it traverses.
 
 ## About controls
 
-These controls have a specific place in the threat model alluding to the component they relate to.
+- These controls have a specific place in the threat model alluding to the component they relate to.
