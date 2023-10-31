@@ -45,4 +45,3 @@ In the case of Kubernetes, log sources can include:
 - third-party plugins/components logs
 
 Understanding which logs will be needed and the level of details for each is as important as understanding where will they be saved, how the SOC will confirm the logs are actually flowing correctly into the SIEM, etc.
-
