@@ -28,7 +28,7 @@ It is more often than not, that architects and engineers will be in a room desig
 
 Unfortunately, this approach most of the time has an overall adverse effect on the timely delivery of the SOC capabilities.
 
-## Logging Sources & Operational Requirements
+## Log Sources & Operational Requirements
 
 **3. Comprehend the required sources of logging for the SOC and ascertain the means by which the satisfaction of operational prerequisites can be guaranteed.**
 
