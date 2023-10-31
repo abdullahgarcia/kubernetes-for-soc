@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1. Download [draw.io](https://www.drawio.com).
+1. Start or download [draw.io](https://www.drawio.com).
 2. Load the latest version of the threat model.
 3. Read the assumptions table and keep them in mind as they shape the threat model. You can decide to look straightaway at the official Kubernetes documentation for concepts within the assumptions, but I recommend you to do it perhaps after you have completed the rest of the instructions.
 4. Explore the threat model by leveraging the draw.io layers, following the order implied by the rest of the document sections.
