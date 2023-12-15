@@ -35,7 +35,7 @@ However, you are free to explore the content however you want. The point is that
 
 ## Acknowledgements
 
-I would like to thank [Control Plane](https://control-plane.io/), especially [Andrew Martin](https://twitter.com/sublimino) and [Francesco Beltramini](https://twitter.com/d1gital_f), for their time and expertise in this collaboration.
+I would like to thank the [ControlPlane](https://control-plane.io/)'s Security Team, especially [Andrew Martin](https://twitter.com/sublimino) and [Francesco Beltramini](https://twitter.com/d1gital_f), for their time and expertise in this collaboration.
 
 ## Getting Help
 
